@@ -1,9 +1,11 @@
+# Modelo de README
+
 ## Markdown CheatSheet
 Todas as possibilidades de customização do README: 
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-# Título do Projeto
+## Título do Projeto
 Descrição do Projeto ✌
 
 Colocar um gif demonstrando o projeto, conforme abaixo:
@@ -32,3 +34,7 @@ blablabla blablabla blablabla.
 
 ## Aprendizados ao desenvolver o projeto
 blablabla blablabla blablabla.
+
+## Repositório do Readme Stats
+Para trocar o tema e outras informações do README do perfil do GitHub
+https://github.com/anuraghazra/github-readme-stats
